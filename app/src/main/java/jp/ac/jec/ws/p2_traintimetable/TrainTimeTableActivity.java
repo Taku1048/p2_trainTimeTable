@@ -25,7 +25,7 @@ import static jp.ac.jec.ws.p2_traintimetable.R.layout.row_item;
 
 public class TrainTimeTableActivity extends AppCompatActivity {
 
-    public static final String YOUR_CONSUMER_KEY = "Ag2MNrlPsrm7QqomiESFB_jEPyAo2LWKw7KxamgcyVs";
+    public static final String YOUR_CONSUMER_KEY = "";
 
     private ListView listTrainTime;
     private Button buttonInbound;

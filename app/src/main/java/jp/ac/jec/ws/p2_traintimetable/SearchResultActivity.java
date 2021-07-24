@@ -29,7 +29,7 @@ public class SearchResultActivity extends AppCompatActivity {
 
     // TODO: 2021-07-24 RowModelAdapterを外部クラス化したい
 
-    public static final String YOUR_CONSUMER_KEY = "Ag2MNrlPsrm7QqomiESFB_jEPyAo2LWKw7KxamgcyVs";
+    public static final String YOUR_CONSUMER_KEY = "";
 
     private ListView listSearchResult;
     private Intent getIntent;
